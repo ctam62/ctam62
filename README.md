@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SavoryScale**
 
-- 🌱 I’m currently learning **TypeScript, PostgresSQL, Django**
+- 🌱 I’m currently learning **TypeScript, PostgreSQL, Django**
 
 - 👨‍💻 All of my projects are available at [![GitHub ClaraTam](https://img.shields.io/badge/-ctam62-%23eeeeee?style=flat-square&logo=Github&logoColor=black&link=https://github.com/ctam62)](https://github.com/ctam62)
 
