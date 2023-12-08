@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**SavoryScale**](https://github.com/ctam62/savoryscale) a web app that enables you to explore and experiment with different recipes or make meal planning simple and stress-free.
 
-- 🌱 I’m currently learning **TypeScript, PostgreSQL, Django, AWS**
+- 🌱 I’m currently learning **TypeScript, Django, AWS**
 
 - 👨‍💻 All of my projects are available at [![GitHub ClaraTam](https://img.shields.io/badge/-ctam62-%23eeeeee?style=flat-square&logo=Github&logoColor=black&link=https://github.com/ctam62)](https://github.com/ctam62)
 
@@ -25,6 +25,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <img src="https://miro.medium.com/v2/resize:fit:475/1*4ZdRWapHBpflTN5FKaDV4w.png" alt="restapi" height="40"/>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
