@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clara</h1>
 <h3 align="center">A passionate and results-driven developer from Canada</h3>
 
-- 🔭 I’m currently working on **SavoryScale** a web app that enables you to explore and experiment with different recipes or make meal planning simple and stress-free.
+- 🔭 I’m currently working on [**SavoryScale**](https://github.com/ctam62/savoryscale) a web app that enables you to explore and experiment with different recipes or make meal planning simple and stress-free.
 
 - 🌱 I’m currently learning **TypeScript, PostgreSQL, Django, AWS**
 
