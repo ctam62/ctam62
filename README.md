@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SavoryScale** a web app that enables you to explore and experiment with different recipes or make meal planning simple and stress-free.
 
-- 🌱 I’m currently learning **TypeScript, PostgreSQL, Django**
+- 🌱 I’m currently learning **TypeScript, PostgreSQL, Django, AWS**
 
 - 👨‍💻 All of my projects are available at [![GitHub ClaraTam](https://img.shields.io/badge/-ctam62-%23eeeeee?style=flat-square&logo=Github&logoColor=black&link=https://github.com/ctam62)](https://github.com/ctam62)
 
