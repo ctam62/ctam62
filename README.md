@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [![GitHub ClaraTam](https://img.shields.io/badge/-ctam62-%23eeeeee?style=flat-square&logo=Github&logoColor=black&link=https://github.com/ctam62)](https://github.com/ctam62)
 
 - 📫 How to reach me [![Linkedin: ctam](https://img.shields.io/badge/-ClaraTam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claramoytam/)](https://www.linkedin.com/in/claramoytam/)
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
